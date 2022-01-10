@@ -1,3 +1,3 @@
 ## read me :)
 
-![screenshot z wordpressa](screenek.png "wordpress działa!")
+![screenshot z wordpressa](screenik.png "wordpress działa!")
