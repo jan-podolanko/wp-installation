@@ -5,7 +5,7 @@
 4. "eval \`ssh-agent\`" w terminalu
 5. "ssh ec2-user@<ip_maszyny> -i id_student" dla obu adresow ip instancji
 6. "ssh-add id_student"
-7. "ansible-playbook -i hosts.ini setup_wp.yaml -e DB_PW='hasło'" wlaczenie samej aplikacji
+7. "ansible-playbook -i hosts.ini setup_wp.yaml -e DB_PW='hasło'" Zainicjowanie aplikacji
 8. Dalej konfiguracja wordpressa z kokpitu (widocznego na screenshocie)
 
 ![screenshot z wordpressa](screenik.png "wordpress działa!")
